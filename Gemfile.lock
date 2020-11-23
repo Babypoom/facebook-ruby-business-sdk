@@ -4,7 +4,7 @@ PATH
     facebookbusiness (0.8.0.3)
       concurrent-ruby (~> 1.1)
       countries (~> 3.0)
-      faraday (~> 1.0)
+      faraday (0.17.1)
       json (~> 2.2)
       money (~> 6.13)
 
