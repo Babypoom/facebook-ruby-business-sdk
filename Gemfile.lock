@@ -4,7 +4,7 @@ PATH
     facebookbusiness (0.8.0.3)
       concurrent-ruby (~> 1.1)
       countries (~> 3.0)
-      faraday (0.17.1)
+      faraday (~> 0.13)
       json (~> 2.2)
       money (~> 6.13)
 
@@ -24,7 +24,7 @@ GEM
       unicode_utils (~> 1.4)
     diff-lcs (1.4.4)
     dotenv (2.7.6)
-    faraday (0.17.1)
+    faraday (~> 0.13)
       multipart-post (>= 1.2, < 3)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
