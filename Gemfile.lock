@@ -24,7 +24,7 @@ GEM
       unicode_utils (~> 1.4)
     diff-lcs (1.4.4)
     dotenv (2.7.6)
-    faraday (1.0.1)
+    faraday (0.17.1)
       multipart-post (>= 1.2, < 3)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
